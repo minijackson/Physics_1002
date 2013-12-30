@@ -6,6 +6,7 @@ Qt various physics case simulation program
 Task List
 ---------
 
+- [ ] a task list item
 - [x] Simple ball subject to gravity
 - [ ] Ball subject to gravity following a curve
 - [x] Spring with friction 
