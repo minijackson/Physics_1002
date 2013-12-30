@@ -12,8 +12,8 @@ Task List
 - ✗ Spring with gravity
 - ✗ Spring with gravity and fluid friction
 
-Framework
----------
+Frameworks
+----------
 
 - Qt
 - Boost
